@@ -1,4 +1,11 @@
 ### Hi there 👋
+Im a student learning software engineering
+
+### Github Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DirkLemmen&show_icons=true&theme=tokyonight)
+
+### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirkLemmen&layout=compact&theme=tokyonight)](https://github.com/DirkLemmen/github-readme-stats)
 
 <!--
 **DirkLemmen/DirkLemmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
