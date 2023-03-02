@@ -9,6 +9,10 @@ Im a student learning software engineering
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirkLemmen&layout=compact&theme=tokyonight)](https://github.com/DirkLemmen/github-readme-stats)
 
+Also learning:
+C#
+Dart
+
 <!--
 **DirkLemmen/DirkLemmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
